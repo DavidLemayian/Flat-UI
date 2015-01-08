@@ -8,7 +8,9 @@
     "dist/fonts/glyphicons/flat-ui-icons-regular.eot",
     "dist/fonts/glyphicons/flat-ui-icons-regular.svg",
     "dist/fonts/glyphicons/flat-ui-icons-regular.ttf",
-    "dist/fonts/glyphicons/flat-ui-icons-regular.woff"
+    "dist/fonts/glyphicons/flat-ui-icons-regular.woff",
+
+    "js/application.js"
   ],
   "ignore": [
     ".*"
